@@ -14,3 +14,6 @@ This all YouTube for my learning GitHub
 [A Better Git Workflow with Rebase](https://www.youtube.com/watch?v=f1wnYdLEpgI)<br>
 [How To Use GitHub with VS Code in 2020 | Commit & Push | Part 1](https://www.youtube.com/watch?v=3Tn58KQvWtU)<br>
 [Up and Running with Visual Studio Code and GitHub](https://www.youtube.com/watch?v=ghL-KlAhBnc)<br>
+[https://www.atlassian.com/git/tutorials/setting-up-a-repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)<br>
+[Setting up Git - Git Guides (2020)](https://www.youtube.com/watch?v=jUlT-zQ-mbk)<br>
+[Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)<br>
