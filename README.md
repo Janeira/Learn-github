@@ -18,5 +18,8 @@
 [Setting up Git - Git Guides (2020)](https://www.youtube.com/watch?v=jUlT-zQ-mbk)<br>
 [Git Tutorial for Beginners: Command-Line Fundamentals](https://www.youtube.com/watch?v=HVsySz-h9r4)<br>
 
-### This is all link how to use GitHut. 
+### *This is all link how to use GitHut.* 
 [GitHub.com](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#using-emoji)<br>
+
+### **How to make yourprofile.**
+[GitHub profile](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile)<nr>
