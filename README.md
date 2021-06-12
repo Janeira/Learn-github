@@ -23,3 +23,6 @@
 
 ### **How to make yourprofile.**
 [GitHub profile](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile)<nr>
+
+### *การเขียน Markdown ควรศึกษาใว้*
+[Markdown คืออะไร](https://daringfireball.net/projects/markdown/)<br>
